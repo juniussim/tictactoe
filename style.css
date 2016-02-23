@@ -1,0 +1,31 @@
+.container {
+  margin: 0 auto;
+  width: 1000px;
+  text-align: center;
+}
+
+#clearBoardButton {
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  margin-top: 30px;
+  background: aliceblue;
+}
+
+#message {
+  font-size: 25px;
+  margin-bottom: 20px;
+  color: darkblue;
+}
+
+td {
+  border: 1px solid black;
+  height: 170px;
+  width: 170px;
+  font-size: 80px;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
